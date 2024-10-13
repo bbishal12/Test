@@ -3,4 +3,8 @@ public class main {
         System.out.println("Hello, World! how are you");
     }
 
+    public void getText(){
+
+    }
+
 }
