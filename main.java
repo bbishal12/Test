@@ -3,7 +3,10 @@ public class main {
         System.out.println("Hello, World! how are you");
     }
 
-    public void getText(){
+    public void getText() {
+    }
+
+    private void getMsg(){
 
     }
     private void getMsg() {
