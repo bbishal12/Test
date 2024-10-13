@@ -3,8 +3,12 @@ public class main {
         System.out.println("Hello, World! how are you");
     }
 
-    private void getMsg(){
+    public void getText(){
+
+    }
+    private void getMsg() {
         //test
     }
+
 
 }
